@@ -1,4 +1,4 @@
-import qrCode from "../assets/images/image-qr-code.png";
+import qrCode from "../assets/image-qr-code.png";
 const Card = () => {
   return (
     <section className="px-4 py-4 bg-white max-h-sm max-w-sm rounded-3xl shadow-sm sm:mx-4 lg:mx-0">
